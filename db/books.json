@@ -1,0 +1,11 @@
+{ 
+    "_id" : ObjectId("5a1549360c32a78980e656a3"), 
+    "title" : "The Murder House", 
+    "genre" : "Suspense", 
+    "description" : "xxx Description", 
+    "author" : "James Patterson", 
+    "publisher" : "Little Brown Company", 
+    "pages" : 480.0, 
+    "image_url" : "", 
+    "buy_url" : ""
+}
